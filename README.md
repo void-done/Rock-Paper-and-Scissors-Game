@@ -54,8 +54,6 @@ This project is great for beginners learning:
 * Storing ASCII art in variables
 * Basic game logic
 
-📸 Example Output
-
 🎯 Learning Outcomes
 
 By building this project, you learn how to:
