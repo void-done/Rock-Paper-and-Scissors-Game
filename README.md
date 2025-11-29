@@ -54,9 +54,14 @@ This project is great for beginners learning:
 * Storing ASCII art in variables
 * Basic game logic
 
+Example Output 
+[image](https://github.com/void-done/Rock-Paper-and-Scissors-Game/blob/main/eg_output.png)
+
+
 🎯 Learning Outcomes
 
 By building this project, you learn how to:
+
 
 * Write interactive programs
 * Use lists for storing items
